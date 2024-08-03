@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+# deployed url : https://07-mayankraj.github.io/Todo-List-React/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
